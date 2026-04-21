@@ -1,7 +1,5 @@
 # P05 European Climate Trends 1950-2024
 
-![Python](https://img.shields.io/badge/Python-3.13.2-blue) ![E-OBS](https://img.shields.io/badge/Data-E--OBS%20v31.0e-green) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen) ![License](https://img.shields.io/badge/License-MIT-yellow)
-
 A reproducible, production-grade analysis of temperature and precipitation trends across 30 European countries using 75 years of daily observational data from E-OBS v31.0e (Copernicus/KNMI). Three complementary statistical methods -- OLS linear regression, Mann-Kendall trend test, and Sen's slope estimator -- are applied to every country and variable to ensure findings are robust to outliers, non-normality, and serial correlation.
 
 ---
