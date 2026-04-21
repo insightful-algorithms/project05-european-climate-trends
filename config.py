@@ -12,8 +12,8 @@ FIGURES_DIR     = os.path.join(PROJECT_ROOT, "figures")
 REPORTS_DIR     = os.path.join(PROJECT_ROOT, "reports")
 
 # ── E-OBS file names (to be downloaded in notebook 01) ────────────────────────
-EOBS_TG_FILE    = os.path.join(DATA_RAW, "tg_ens_mean_0.25deg_reg_v30.0e.nc")
-EOBS_RR_FILE    = os.path.join(DATA_RAW, "rr_ens_mean_0.25deg_reg_v30.0e.nc")
+EOBS_TG_FILE = os.path.join(DATA_RAW, "tg_ens_mean_0.25deg_reg_v31.0e.nc")
+EOBS_RR_FILE = os.path.join(DATA_RAW, "rr_ens_mean_0.25deg_reg_v31.0e.nc")
 
 # ── Country list (30 European countries) ──────────────────────────────────────
 COUNTRIES = [
